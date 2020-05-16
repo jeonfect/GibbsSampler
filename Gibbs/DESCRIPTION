@@ -1,0 +1,18 @@
+Package: Gibbs
+Title: Gibbs Sampler for model-based clustering
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jeonghun",
+           family = "Jeon",
+           role = c("aut", "cre"),
+           email = "j2jeon@uwaterloo.ca",
+	   comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Use Gibbs Sampler to hierarchical Gaussian mixture model for clustering
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
+Imports: mniw
+Suggests: 
+    testthat
